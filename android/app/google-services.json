@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "201154824781",
+    "project_id": "final-task-app",
+    "storage_bucket": "final-task-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201154824781:android:ba345649550d4acf19aa04",
+        "android_client_info": {
+          "package_name": "com.example.fristapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201154824781-hta7macrk11k1hbl54iornppptnbcca3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fristapp",
+            "certificate_hash": "8f769b4f2944dea6e2186e717d01a1aec437066d"
+          }
+        },
+        {
+          "client_id": "201154824781-c1in76scdp485akb7tqb0lbookjok678.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkCeiQ8zzprRj9v6g-6j9LqQyr0aJSGgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201154824781-c1in76scdp485akb7tqb0lbookjok678.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
